@@ -1,0 +1,3 @@
+﻿  SphereTextureMapping.cpp
+C:\Users\owner\Desktop\ComputerGraphics\SphereTexture\SphereTexture\SphereTextureMapping.cpp(80,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  SphereTexture.vcxproj -> C:\Users\owner\Desktop\ComputerGraphics\SphereTexture\Debug\SphereTexture.exe
