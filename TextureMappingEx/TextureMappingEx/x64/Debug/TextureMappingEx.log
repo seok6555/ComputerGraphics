@@ -1,0 +1,4 @@
+﻿  TextureMapping.cpp
+C:\Users\owner\Desktop\ComputerGraphics\TextureMappingEx\TextureMappingEx\TextureMapping.cpp(118,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1104).
+LINK : fatal error LNK1104: 'glaux.lib' 파일을 열 수 없습니다.
