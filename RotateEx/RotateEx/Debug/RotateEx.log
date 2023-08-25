@@ -1,0 +1,14 @@
+﻿  rotate.cpp
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(8,6): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(8,15): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(9,6): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(9,18): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(15,6): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(15,20): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(17,3): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(17,24): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(23,11): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(23,20): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(24,11): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\owner\Desktop\ComputerGraphics\RotateEx\RotateEx\rotate.cpp(24,23): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  RotateEx.vcxproj -> C:\Users\owner\Desktop\ComputerGraphics\RotateEx\Debug\RotateEx.exe
